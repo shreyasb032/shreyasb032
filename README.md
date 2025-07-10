@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shreyas! 👋
 
-<!--
-**shreyasb032/shreyasb032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD candidate with research interests in **human-robot interaction**. My technical skills include **Python**, **C++**, and **Unreal Engine**. Currently, I am developing the [I-ORCA algorithm](https://github.com/shreyasb032/i_orca), which aims to generate nudge-efficient trajectories for mobile robots.
 
-Here are some ideas to get you started:
+- 🔭 **Favorite Project:** [I-ORCA Algorithm](https://github.com/shreyasb032/i_orca)
+- 🛠️ **Technologies:** Python, C++, Unreal Engine
+- 🤖 **Learning:** ROS2
+- 🌱 Always eager to contribute to open-source robotics projects.
+- 🎮 In my free time, I love to play video games.
+- 🧑‍💻 **Minimalistic** design philosophy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research & Links
+
+- [LinkedIn](https://linkedin.com/in/shreyasb032)
+- [Personal Website](https://shreyasb032.github.io)
+- [Google Scholar](https://scholar.google.com/citations?user=_Vy0npcAAAAJ&hl=en)
+
+---
+
+Feel free to reach out if you share interests in robotics, ROS2, or want to collaborate on open-source projects!
