@@ -4,7 +4,7 @@ I am a PhD candidate with research interests in **human-robot interaction**. My 
 
 - 🔭 **Favorite Project:** [I-ORCA Algorithm](https://github.com/shreyasb032/i_orca)
 - 🛠️ **Technologies:** Python, C++, Unreal Engine
-- 🤖 **Learning:** ROS2
+- 🤖 **Learning:** ROS2, Deep Reinforcement Learning
 - 🌱 Always eager to contribute to open-source robotics projects.
 - 🎮 In my free time, I love to play video games.
 - 🧑‍💻 **Minimalistic** design philosophy.
